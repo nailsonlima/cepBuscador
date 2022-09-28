@@ -4,7 +4,7 @@
 <p>Projeto rápido, feito com React.js</p>
 <span>Apesar de simples, foi prazeroso codar essa aplicação!😃</span>
 
-## 🔴MEDIA
+## 🔵MEDIA
 <div>
 <p>Teste de funcionalidade! OK✔</p>
 <img src='./assets/toReadme/teste.gif'/>
